@@ -32,8 +32,8 @@ PCB de la carte:
    :align: center
 
 
-3Dde la carte:
+3D de la carte:
 ==================
 .. image:: ./img/PCB_3DIoT_ESP_BAC_2022-12-11.png
    :scale: 50 %
-   :align: center   
+   :align: center
