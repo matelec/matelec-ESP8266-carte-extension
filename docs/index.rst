@@ -3,9 +3,9 @@ CARTE D'EXTENSION IoT D1 mini BAC.
 =================================
 
 **Objectifs:**
-* alimentation sur batterie lithium et rechargeable par microUSB.
-* Ecran OLED.
-* 4 connecteurs I2C pour assorcier des capteurs.
+ * alimentation sur batterie lithium et rechargeable par microUSB.
+ * Ecran OLED.
+ * 4 connecteurs I2C pour assorcier des capteurs.
 
 Montage chargeur de battery Lithium-Ion:
 ========================================
