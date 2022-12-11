@@ -12,5 +12,5 @@ voir la documentation en pdf dans le github
 schéma électronique de la carte:
 ================================
 .. image:: ./img/Schematic_IoT-ESP_BAC_2022-12-11.png
-   :scale: 50 %
+   :scale: 25 %
    :align: center
