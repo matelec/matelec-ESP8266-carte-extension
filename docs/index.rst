@@ -34,6 +34,6 @@ PCB de la carte:
 
 3D de la carte:
 ==================
-.. image:: ./img/PCB_3DIoT_ESP_BAC_2022-12-11.png
+.. image:: ./img/PCB_3D_IoT_ESP_BAC_2022-12-11.png
    :scale: 50 %
    :align: center
