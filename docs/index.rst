@@ -19,3 +19,10 @@ schéma électronique de la carte:
 .. image:: ./img/Schematic_IoT_ESP_BAC_2022-12-11.png
    :scale: 50 %
    :align: center
+
+
+PCB de la carte:
+================================
+.. image:: ./img/Schematic_IoT_ESP_BAC_2022-12-11.png
+   :scale: 50 %
+   :align: center
