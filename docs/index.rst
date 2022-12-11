@@ -23,6 +23,17 @@ schéma électronique de la carte:
 
 PCB de la carte:
 ================================
-.. image:: ./img/Schematic_IoT_ESP_BAC_2022-12-11.png
+.. image:: ./img/PCB_COMPO_IoT_ESP_BAC_2022-12-11.png
    :scale: 50 %
    :align: center
+
+.. image:: ./img/PCB_Cuivre_IoT_ESP_BAC_2022-12-11.png
+   :scale: 50 %
+   :align: center
+
+
+3Dde la carte:
+==================
+.. image:: ./img/PCB_3DIoT_ESP_BAC_2022-12-11.png
+   :scale: 50 %
+   :align: center   
